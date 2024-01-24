@@ -5,5 +5,10 @@
 
 Photo de moi dans un chapeau
 
+## Intérets dans le multimédia
 
-J'aime bien
+J'aime bien le multimédia en général.
+
+## Autres Intérets et aspects de ma personalité 
+
+Jeux vidéos, Musique :)
