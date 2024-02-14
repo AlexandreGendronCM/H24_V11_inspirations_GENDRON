@@ -2,9 +2,7 @@
 
 # Nom de l'exposition
 
-## Phase shifting index
-
-par ## Jeremy Shaw
+## Phase shifting index : par Jeremy Shaw
  
 # Lieu de mise en exposition
 
