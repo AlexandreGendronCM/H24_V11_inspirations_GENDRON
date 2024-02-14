@@ -56,10 +56,10 @@
  
 ## Ce qui vous a plu, vous a donné des idées
 
-# Le tapis
+### Le tapis
 
-# Le son
+### Le son
 
-# La lumière
+### La lumière
  
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
