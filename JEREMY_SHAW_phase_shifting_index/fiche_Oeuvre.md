@@ -40,16 +40,26 @@
  
 # Type d'installation (contemplative, immersive, interactive)
 
-##
+## Contemplatif, Immersif et Interactif
  
 # Mise en espace
+
+### METTRE CROQUIS
  
 ## Composantes et techniques
  
 ## Éléments nécessaires à la mise en exposition
  
 ## Expérience vécue
+
+## wallah adim
  
 ## Ce qui vous a plu, vous a donné des idées
+
+# Le tapis
+
+# Le son
+
+# La lumière
  
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
