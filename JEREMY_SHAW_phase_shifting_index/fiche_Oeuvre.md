@@ -20,13 +20,11 @@
  
 # Titre de l'oeuvre
 
-## Phase Shifting Index par Jeremy ShaW
+## Phase Shifting Index par Jeremy Shaw
 
-![alt text](./medias/ecran_07.png)
- 
+![vue_ensemble](./medias/ecran_07.png)
 
-
-
+![plan](./medias/document_page_1_plan.png)
  
 # Année de réalisation
 
@@ -38,7 +36,14 @@
 
 ## Phase Shifting Index est une <installation vidéographique à sept canaux, couleur et noir-et-blanc,avec son multi-canaux et lumières de 35min 17s>
 
+![cartel](./medias/cartel.png)
+
 ### Dans cette instalation on retrouve 7 toiles avec des vidéos  qui sont projetés à l'aide de projecteurs accrochés au plafond. Le son est produit par des enceintes accrochés au plafond et par des subwoofres cachés dans les coins de la pièce.
+
+![écran](./medias/ecran_01.png)
+![écran](./medias/ecran_02.png)
+![écran](./medias/ecran_03.png)
+
 
 ### La pièce est recouverte de tapis et il y a des estrades et des bancs.
  
