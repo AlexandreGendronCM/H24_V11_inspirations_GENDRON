@@ -3,6 +3,8 @@
 # Nom de l'exposition
 
 ## Phase shifting index : par Jeremy Shaw
+
+![affiche](./medias/affiche_jeremy_shaw.png)
  
 # Lieu de mise en exposition
 
