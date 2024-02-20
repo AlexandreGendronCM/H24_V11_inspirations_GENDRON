@@ -8,7 +8,7 @@
 
  ## Fondrie Darling
 
- ![alt text](autoportrait_fondrie.png)
+ ![alt text](./medias/autoportrait_fondrie.png)
  
 # Type d'exposition 
 
