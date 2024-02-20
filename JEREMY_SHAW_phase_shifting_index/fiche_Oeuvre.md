@@ -40,22 +40,24 @@
 
 ![cartel](./medias/cartel.png)
 
-### Dans cette instalation on retrouve 7 toiles avec des vidéos  qui sont projetés à l'aide de projecteurs accrochés au plafond. Le son est produit par des enceintes accrochés au plafond et par des subwoofres cachés dans les coins de la pièce.
+La pièce est divisée en deux. Premièrement, une salle ou les spectateurs attendent la fin de la boucle précédente et/ou se font expliquer l'oeuvre par le guide.
+Deuxièmement, la salle d'exposition qui est totalement recouverte de tapis. Il y a plusieurs endroit ou s'assir comme des estrades positionné sur le mur le plus proche de l'entrée et des bancs positionnés dans le milieu et sur les côtés de la salle.
 
+![vue_ensemble](./medias/ecran_07.png)
+![croquis](./medias/croquis.png)
 ![écran](./medias/ecran_01.png)
 ![écran](./medias/ecran_02.png)
 ![écran](./medias/ecran_03.png)
 
-
-### La pièce est recouverte de tapis et il y a des estrades et des bancs.
  
-# Type d'installation (contemplative, immersive, interactive)
+# Type d'installation
 
 ## Contemplatif, Immersif et Interactif
- 
-# Mise en espace
 
-### METTRE CROQUIS
+
+ 
+
+
  
 ## Composantes et techniques
  
