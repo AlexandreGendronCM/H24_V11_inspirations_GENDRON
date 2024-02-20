@@ -7,6 +7,8 @@
 # Lieu de mise en exposition
 
  ## Fondrie Darling
+
+ ![alt text](autoportrait_fondrie.png)
  
 # Type d'exposition 
 
