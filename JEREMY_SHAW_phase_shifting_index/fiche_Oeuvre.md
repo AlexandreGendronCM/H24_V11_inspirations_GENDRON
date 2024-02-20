@@ -20,11 +20,13 @@
  
 # Titre de l'oeuvre
 
-## Phase Shifting Index
- 
-# Nom de l'artiste
+## Phase Shifting Index par Jeremy ShaW
 
-## Jeremy Shaw
+![alt text](./medias/ecran_07.png)
+ 
+
+
+
  
 # Année de réalisation
 
