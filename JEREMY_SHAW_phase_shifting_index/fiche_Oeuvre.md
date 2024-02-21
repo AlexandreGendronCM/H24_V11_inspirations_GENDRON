@@ -40,7 +40,7 @@
 
 ![cartel](./medias/cartel.png)
 
-La pièce est divisée en deux. Premièrement, une salle ou les spectateurs attendent la fin de la boucle précédente et/ou se font expliquer l'oeuvre par le guide.
+###La pièce est divisée en deux. Premièrement, une salle ou les spectateurs attendent la fin de la boucle précédente et/ou se font expliquer l'oeuvre par le guide.
 Deuxièmement, la salle d'exposition qui est totalement recouverte de tapis. Il y a plusieurs endroit ou s'assir comme des estrades positionné sur le mur le plus proche de l'entrée et des bancs positionnés dans le milieu et sur les côtés de la salle.
 
 ![vue_ensemble](./medias/ecran_07.png)
@@ -64,12 +64,17 @@ https://github.com/AlexandreGendronCM/H24_V11_inspirations_GENDRON/assets/143230
 
  
 ## Composantes et techniques
+
+Cette oeuvre nécéssite l'utilisation de haut-parleurs accrochés au plafond et des subwoofers (haut parleurs de basses fréquences) cachés dans l'ombre derrière les écrans du fond.
+Il faut aussi 7 projecteurs pour diffuser les viéos sur les écrans.
+
+![speaker](./medias/speaker_plafond)
  
 ## Éléments nécessaires à la mise en exposition
  
 ## Expérience vécue
 
-## wallah adim
+## 
  
 ## Ce qui vous a plu, vous a donné des idées
 
