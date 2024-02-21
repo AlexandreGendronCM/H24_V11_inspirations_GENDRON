@@ -55,7 +55,11 @@ Deuxièmement, la salle d'exposition qui est totalement recouverte de tapis. Il 
 ## Contemplatif, Immersif et Interactif
 
 
- ![video](./medias/video_00.mp4)
+
+
+
+https://github.com/AlexandreGendronCM/H24_V11_inspirations_GENDRON/assets/143230188/90cd8d57-4a15-45a5-821a-c4d6b3d104ac
+
 
 
  
