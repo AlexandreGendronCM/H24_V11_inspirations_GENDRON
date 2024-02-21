@@ -95,10 +95,8 @@ En effet je crois que les salons d'expositions peuvent se procurer les mêmes mo
  
 ## Ce qui vous a plu, vous a donné des idées ❤
 
-### Le tapis
-
-### Le son
-
-### La lumière
+### J'ai particulièrement aimé l'utilisation de tapis dans l'oeuvre «Phase Shifting Index». En effet, j'ai trouvé que le tapis à permis un confort accru ce qui m'a permis de vivre l'ouvre dans un confort optimal et d'avoir une expérience beaucoup plus interactive étant donné que le sens du toucher était lui aussi stimulé.
  
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement 😒
+
+### Il n'y a aucun aspect qui m'a particulièrement déplu, cependant je crois que la salle d'attente pourrait être plus insonorisée. En effet je crois que si les spectateurs n'entendait pas du tout la musique avant d'entrer dans la salle principale, l'expérience serait plus surprenante.
