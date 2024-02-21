@@ -68,7 +68,7 @@ https://github.com/AlexandreGendronCM/H24_V11_inspirations_GENDRON/assets/143230
 
 ![écran](./medias/ecran_04.png)
 
-En effet je crois que les salons d'expositions peuvent se procurer les mêmes modèles d'haut parleurs, subwoofer et projecteur afin d'assurer l'authenticité de l'oeuvre, mais il est possible que l'artiste ait fourni ce matériel pour être certain d'avoir le bon équipement.
+### En effet je crois que les salons d'expositions peuvent se procurer les mêmes modèles d'haut parleurs, subwoofer et projecteur afin d'assurer l'authenticité de l'oeuvre, mais il est possible que l'artiste ait fourni ce matériel pour être certain d'avoir le bon équipement.
 
 ### Les lumières et le filage n'est très probablement pas fourni, car ces éléments sont trop dépendants de la salle dans laquelle l'exposition prend place, tout comme le matériel requis pour attacher les écrans au plafond. 
 
