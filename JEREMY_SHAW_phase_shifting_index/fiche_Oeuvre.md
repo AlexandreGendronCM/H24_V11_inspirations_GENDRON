@@ -67,7 +67,7 @@ https://github.com/AlexandreGendronCM/H24_V11_inspirations_GENDRON/assets/143230
 Cette oeuvre nécéssite l'utilisation de haut-parleurs accrochés au plafond et des subwoofers (haut parleurs de basses fréquences) cachés dans l'ombre derrière les écrans du fond.
 Il faut aussi 7 projecteurs pour diffuser les viéos sur les écrans.
 
-![speaker](./medias/speaker_plafond)
+![speaker](JEREMY_SHAW_phase_shifting_index/medias/speaker_plafond.png)
  
 ## Éléments nécessaires à la mise en exposition
  
