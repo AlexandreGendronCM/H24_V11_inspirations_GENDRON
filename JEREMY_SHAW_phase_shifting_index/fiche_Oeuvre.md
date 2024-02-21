@@ -66,7 +66,7 @@ https://github.com/AlexandreGendronCM/H24_V11_inspirations_GENDRON/assets/143230
 
 ### Étant donné que l'oeuvre est principalement numérique. J'assume que les seuls éléments qui sont transportés sont le tapis, ou du moins un échantillon afin de se procurer une  quantité appropriée pour chaque salle, et les écrans.
 
-![ecran](./medias/ecran_04.png)
+![écran](./medias/ercan_04.png)
 
 En effet je crois que les salons d'expositions peuvent se procurer les mêmes modèles d'haut parleurs, subwoofer et projecteur afin d'assurer l'authenticité de l'oeuvre, mais il est possible que l'artiste ait fourni ce matériel pour être certain d'avoir le bon équipement.
 
