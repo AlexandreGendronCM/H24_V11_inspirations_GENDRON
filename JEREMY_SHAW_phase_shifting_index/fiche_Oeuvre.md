@@ -40,9 +40,7 @@
 
 ![cartel](./medias/cartel.png)
 
-### La pièce est divisée en deux. Premièrement, une salle ou les spectateurs attendent la fin de la boucle précédente et/ou se font expliquer l'oeuvre par le guide.
-### Deuxièmement, la salle d'exposition qui est totalement recouverte de tapis. Il y a plusieurs endroit ou s'assir comme des estrades positionné sur le mur le plus proche de l'entrée et des bancs positionnés dans 
-### le milieu et sur les côtés de la salle.
+### La pièce est divisée en deux. Premièrement, une salle ou les spectateurs attendent la fin de la boucle précédente et/ou se font expliquer l'oeuvre par le guide. Deuxièmement, la salle d'exposition qui est totalement recouverte de tapis. Il y a plusieurs endroit ou s'assir comme des estrades positionné sur le mur le plus proche de l'entrée et des bancs positionnés dans le milieu et sur les côtés de la salle.
 
 ![vue_ensemble](./medias/ecran_07.png)
 ![croquis](./medias/croquis.png)
