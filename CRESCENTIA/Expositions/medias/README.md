@@ -1,1 +1,1 @@
-** Voici les médias utilisés pour la documentation des oeuvres de CRESCENTIA 
+## Voici les médias utilisés pour la documentation des oeuvres de CRESCENTIA 
