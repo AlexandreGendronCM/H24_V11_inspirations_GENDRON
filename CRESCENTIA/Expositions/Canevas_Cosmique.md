@@ -26,6 +26,8 @@ L'expérience utilisateur de cette exposition est très immersive et intéressan
 
 <img src="./medias/plan_technique_canevas_cosmique.PNG"  height=450>
 
+<img src="./medias/plantation_canevascosmique.PNG"  height=450>
+
 ### L'équipement et le matériel utilisé pour cette exposition [liste tirée du GitHub de l'équipe de Canevas Cosmique]
 
 umière
