@@ -18,7 +18,11 @@ De plus, le compteur d'itérations qui affiche le nombre de fois ou l'univers f�
 
 Lors de cette visite du 20 mars, j'ai pu tester cette installation interactive qui, avec des statues munies de codes sur leur face inférieur, permet de déplacer des planetes qui intéragissent entre elles.
 
+L'expérience utilisateur de cette exposition est très immersive et intéressante. En effet, grâce au rendu en direct sur la projection, l'utilisateur est en mesure de constater les conséquences de ces actions.
+
 <img src="./medias/canevascosmique_pre_ensemble.png"  height=450>
+
+<img src="./medias/plan_technique_canevas_cosmique.png"  height=450>
 
 
 
