@@ -1,6 +1,6 @@
 ## CANEVAS COSMIQUE
 
-Le canevas cosmique est l'un des projets présentés dans l'exposition CRESCENTIA qui a pris place dans les studios du collège montomrecy.
+Le canevas cosmique est l'un des projets présentés dans l'exposition CRESCENTIA qui a pris place dans les studios du Collège Montomrecy.
 
 Cette exposition temporaire intérieure a été réalisé par Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau en 2024.
 
@@ -26,5 +26,43 @@ L'expérience utilisateur de cette exposition est très immersive et intéressan
 
 <img src="./medias/plan_technique_canevas_cosmique.PNG"  height=450>
 
+### L'équipement et le matériel utilisé pour cette exposition [liste tirée du GitHub de l'équipe de Canevas Cosmique]
 
+umière
 
+1 Lumière DMX
+Audio
+
+2 haut-parleurs
+5 fils XLR 3 conducteurs de 15' (M->F)
+1 carte de son
+Vidéo
+
+1 projecteur vidéo shortrow
+1 projo ultra short-throw
+3 système d'acrochage
+1 KinectV2
+Électricité
+
+2 cordon IEC (pour l'alimentation des haut-parleurs)
+4 Multiprises
+Réseau
+
+Switch poe 1 port
+Switch Ethernet 3 ports
+7 Cables Ethernet
+4 Cables HDMI
+2 Receivers HDMI
+2 Sender HDMI
+Ordinateur
+
+1 ordinateur
+1 laptop
+
+### Logiciels utilisés pour cette exposition [liste tirée du GitHub de l'équipe de Canevas Cosmique]
+
+Touch Designer
+Unity 2022.3.8f1
+Autodesk Maya
+Blender
+Reaper
