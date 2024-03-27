@@ -20,7 +20,7 @@ Lors de cette visite du 20 mars, j'ai pu tester cette installation interactive q
 
 L'expérience utilisateur de cette exposition est très immersive et intéressante. En effet, grâce au rendu en direct sur la projection, l'utilisateur est en mesure de constater les conséquences de ces actions.
 
-# Les schémas et plans techniques situés ci-dessous sont tirés directement du GitHub de l'équipe de Canevas Cosmique
+### Les schémas et plans techniques situés ci-dessous sont tirés directement du GitHub de l'équipe de Canevas Cosmique
 
 <img src="./medias/canevascosmique_pre_ensemble.png"  height=450>
 
