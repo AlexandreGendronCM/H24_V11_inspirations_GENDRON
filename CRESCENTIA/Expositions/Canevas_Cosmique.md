@@ -6,7 +6,7 @@ Cette exposition temporaire intérieure a été réalisé par Jacob Alarie-Brous
 
 <img src="./medias/cartel_canevascosmique.png"  height=450>
 
-<img src="./medias/canevascosmique_tableau.png"  height=450>
+<img src="./medias/canevas_cosmique_tableau.png"  height=450>
 
 Crescentia qui signifie «croissance» est étoitement lié au projet du canevas cosmique. 
 
