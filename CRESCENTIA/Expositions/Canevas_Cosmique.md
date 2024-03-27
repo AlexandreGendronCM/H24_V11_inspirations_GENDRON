@@ -4,7 +4,7 @@ Le canevas cosmique est l'un des projets présentés dans l'exposition CRESCENTI
 
 Cette exposition temporaire intérieure a été réalisé par Jacob Alarie-Brousseau,Étienne Charron,Jérémy Cholette,Quoc Huy Do,Mikaël Tourangeau en 2024.
 
-<img src="./medias/cartel_canevascosmique.png" width=450 height=450>
+<img src="./medias/cartel_canevascosmique.png"  height=450>
 
 Crescentia qui signifie «croissance» est étoitement lié au projet du canevas cosmique. 
 
