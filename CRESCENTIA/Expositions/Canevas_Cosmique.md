@@ -12,5 +12,5 @@ De plus, le compteur d'itérations qui affiche le nombre de fois ou l'univers f�
 
 Lors de cette visite du 20 mars, j'ai pu tester cette installation interactive qui, avec des statues munies de codes sur leur face inférieur, permet de déplacer des planetes qui intéragissent entre elles.
 
-<img scr=CRESCENTIA/Expositions/medias/canevascosmique_pre_ensemble.png width= 450 height= 450>
+![canevas cosmique](./medias/canevascosmique_pre_ensemble =250x250)
 
