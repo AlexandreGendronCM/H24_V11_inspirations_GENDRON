@@ -10,7 +10,7 @@ En effet, ce projet qui met en scène l'univers, démontre l'effet de croissance
 
 De plus, le compteur d'itérations qui affiche le nombre de fois ou l'univers fût détruit puis reveint à la vie propose une fois de plus une façon unique de démonter la croissance continuelle de l'univers.
 
-<img src="CRESCENTIA/Expositions/medias/canevas_cosmique_fin_itération.png" width=450 height=450>
+<img src="./medias/canevas_cosmique_fin_itération.png" width=450 height=450>
 
 Lors de cette visite du 20 mars, j'ai pu tester cette installation interactive qui, avec des statues munies de codes sur leur face inférieur, permet de déplacer des planetes qui intéragissent entre elles.
 
