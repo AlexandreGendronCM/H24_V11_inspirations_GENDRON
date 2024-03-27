@@ -2,7 +2,7 @@
 
 Le canevas cosmique est l'un des projets présentés dans l'exposition CRESCENTIA qui a pris place dans les studios du collège montomrecy.
 
-Cette exposition temporaire intérieure a été réalisé par Jacob Alarie-Brousseau,Étienne Charron,Jérémy Cholette,Quoc Huy Do,Mikaël Tourangeau en 2024.
+Cette exposition temporaire intérieure a été réalisé par Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau en 2024.
 
 <img src="./medias/cartel_canevascosmique.png"  height=450>
 
