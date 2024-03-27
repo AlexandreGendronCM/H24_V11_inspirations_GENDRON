@@ -22,7 +22,7 @@ L'expérience utilisateur de cette exposition est très immersive et intéressan
 
 <img src="./medias/canevascosmique_pre_ensemble.png"  height=450>
 
-<img src="./medias/plan_technique_canevas_cosmique.png"  height=450>
+<img src="./medias/plan_technique_canevas_cosmique.PNG"  height=450>
 
 
 
